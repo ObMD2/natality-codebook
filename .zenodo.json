@@ -1,0 +1,13 @@
+{
+  "title": "US Natality File Codebook",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "Grünebaum, Amos",
+      "affiliation": "Northwell Health"
+    }
+  ],
+  "description": "A machine-readable codebook for the National Center for Health Statistics (NCHS) natality public-use file, the US birth certificate microdata behind CDC natality statistics. It lists every field in the file layout with record position, width, description, and the codes and categories defined in the NCHS User Guide. Formats: searchable HTML page, CSV (one row per variable; one row per code) and JSON.",
+  "license": "cc-by-4.0",
+  "keywords": ["natality", "birth certificate", "NVSS", "NCHS", "codebook", "obstetrics"]
+}
