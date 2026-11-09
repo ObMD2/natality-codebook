@@ -6308,7 +6308,7 @@
   "position": "31",
   "width": 1,
   "description": "Occurrence County Pop",
-  "note": "",
+  "note": "The 2024 User Guide prints this row without a code; 3 is the code by sequence (the 2025 guide prints 3).",
   "topic": "Territories addendum (geography)",
   "type": "Data item",
   "codes": [
@@ -6325,8 +6325,8 @@
     "label": "County of 250,000 to 500,000"
    },
    {
-    "code": "County",
-    "label": "of 100,000 to 250,000"
+    "code": "3",
+    "label": "County of 100,000 to 250,000"
    },
    {
     "code": "4",

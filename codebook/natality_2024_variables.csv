@@ -228,7 +228,7 @@ BFED,569,1,Infant Breastfed at Discharge,,"Infant transfer, survival and breastf
 F_BFED,570,1,Reporting Flag for Breastfed at Discharge,,"Infant transfer, survival and breastfeeding",Reporting flag,2
 OCTERR,24-25,2,Mother’s Occurrence Territory/Possession,,Territories addendum (geography),Data item,8
 OCNTYFIPS,28-30,3,Occurrence FIPS County,,Territories addendum (geography),Data item,8
-OCNTYPOP,31,1,Occurrence County Pop,,Territories addendum (geography),Data item,8
+OCNTYPOP,31,1,Occurrence County Pop,The 2024 User Guide prints this row without a code; 3 is the code by sequence (the 2025 guide prints 3).,Territories addendum (geography),Data item,8
 MBCNTRY,80-81,2,Mother’s Birth Country,,Territories addendum (geography),Data item,1
 MRCNTRY,85-86,2,Mother’s Residence Country,,Territories addendum (geography),Data item,1
 MRTERR,89-90,2,Mother’s Residence Territory,,Territories addendum (geography),Data item,8
